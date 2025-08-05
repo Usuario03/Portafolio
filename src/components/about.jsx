@@ -10,7 +10,7 @@ export const About = () => {
                 </h2>
 
                 <p className="text-sm text-justify text-[var(--color-cuarto)]  mb-10">
-                    Soy Jairo Arturo Leal Moreno, estudiante de noveno semestre de Ingeniería de Sistemas, próximo a culminar mi carrera. Actualmente me encuentro enfocado en el desarrollo frontend, aprendiendo y aplicando tecnologías como React, Tailwind CSS y Vite para crear interfaces web modernas, dinámicas y adaptadas a distintos dispositivos. Me interesa especialmente el diseño limpio y funcional, así como la experiencia de usuario. Me considero una persona responsable, comprometida con el aprendizaje constante y con muchas ganas de aportar en proyectos que integren desarrollo web con enfoque visual y técnico.
+                    Estudiante de noveno semestre de Ingeniería de Sistemas, próximo a culminar mi carrera. Actualmente me encuentro enfocado en el desarrollo frontend, aprendiendo y aplicando tecnologías como React, Tailwind CSS y Vite para crear interfaces web modernas, dinámicas y adaptadas a distintos dispositivos. Me interesa especialmente el diseño limpio y funcional, así como la experiencia de usuario. Me considero una persona responsable, comprometida con el aprendizaje constante y con muchas ganas de aportar en proyectos que integren desarrollo web con enfoque visual y técnico.
                 </p>
 
                 <h3 className="text-[var(--color-cuarto)] text-2xl font-bold flex items-center gap-3 mb-6">

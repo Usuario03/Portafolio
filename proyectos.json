@@ -24,7 +24,7 @@
     ],
     "botones": [
       {
-        "nombre": "Ver proyecto",
+        "nombre": "Linkedin",
         "icono": "/assets/images/linkedin.png",
         "enlace": "https://demo-link.com",
         "estilo": "bg-blue-600 hover:bg-blue-700"
@@ -58,7 +58,7 @@
     ],
     "botones": [
       {
-        "nombre": "Ver proyecto",
+        "nombre": "Linkedin",
         "icono": "/assets/images/linkedin.png",
         "enlace": "https://demo-link.com",
         "estilo": "bg-blue-600 hover:bg-blue-700"
