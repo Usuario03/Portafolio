@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "titulo": "Interfaz de carrito de compras de postres",
+    "imagen": "/assets/images/active-states.png",
+    "descripcion": "Este proyecto me permitió consolidar conocimientos sobre React funcional y moderno, mejorar mi fluidez con Tailwind CSS, y utilizar Vite como alternativa rápida y eficiente para desarrollar aplicaciones frontend. Aprendí a estructurar mejor los componentes y manejar el estado de forma limpia y escalable, lo cual es esencial para cualquier aplicación real de comercio electrónico.",
+    "tecnologias": [
+      {
+        "nombre": "React",
+        "icono": "/assets/images/react.png"
+      },
+      {
+        "nombre": "TailwindCSS",
+        "icono": "/assets/images/Tailwindcss.png"
+      },
+      {
+        "nombre": "Vite",
+        "icono": "/assets/images/vite.png"
+      },
+      {
+        "nombre": "Zustand",
+        "icono": "/assets/images/zustand.png"
+      }
+    ],
+    "botones": [
+      {
+        "nombre": "Ver proyecto",
+        "icono": "/assets/images/linkedin.png",
+        "enlace": "https://demo-link.com",
+        "estilo": "bg-blue-600 hover:bg-blue-700"
+      },
+      {
+        "nombre": "GitHub",
+        "icono": "/assets/images/github.png",
+        "enlace": "https://github.com/Usuario03/Cart-main.git",
+        "estilo": "bg-neutral-800 hover:bg-neutral-900"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Gestión de extensiones tipo navegador",
+    "imagen": "/assets/images/desktop-design-light.png",
+    "descripcion": "Este proyecto me permitió reforzar mis conocimientos en React y Tailwind CSS, centrándome en el diseño de interfaces ricas en interacción y usabilidad. Comprendí cómo estructurar mejor los componentes, manejar múltiples estados de forma eficiente y simular comportamientos reales de una aplicación de escritorio o navegador.",
+    "tecnologias": [
+      {
+        "nombre": "React",
+        "icono": "/assets/images/react.png"
+      },
+      {
+        "nombre": "TailwindCSS",
+        "icono": "/assets/images/Tailwindcss.png"
+      },
+      {
+        "nombre": "Vite",
+        "icono": "/assets/images/vite.png"
+      }
+    ],
+    "botones": [
+      {
+        "nombre": "Ver proyecto",
+        "icono": "/assets/images/linkedin.png",
+        "enlace": "https://demo-link.com",
+        "estilo": "bg-blue-600 hover:bg-blue-700"
+      },
+      {
+        "nombre": "GitHub",
+        "icono": "/assets/images/github.png",
+        "enlace": "https://github.com/Usuario03/Proyecto-Extension.git",
+        "estilo": "bg-neutral-800 hover:bg-neutral-900"
+      }
+    ]
+  }
+]

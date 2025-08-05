@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 200 700;
+  font-display: swap;
+  src: url("/assets/design/Roboto-VariableFont_wdth,wght.ttf") format("woff2");
+}
+@theme {
+  --color-primero: #FFF2F2;
+  --color-segundo: #A9B5DF;
+  --color-tercero: #7886C7;
+  --color-cuarto: #2D336B;
+  --breakpoint-desktop: 1440px;
+}   
+body{
+  font-family: Roboto;
+  background-color: var(--color-primero)
+}
+@keyframes blink {
+  0% { opacity: 1; transform: translateY(0); }
+  50% { opacity: 0.5; transform: translateY(-1px); }
+  100% { opacity: 1; transform: translateY(1px); }
+}
+
+.animate-blink {
+  display: inline-block;
+  animation: blink 0.7s infinite;
+}
