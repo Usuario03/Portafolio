@@ -19,7 +19,7 @@ export const Experience = () => {
           <p className="text-[var(--color-tercero)] font-semibold">Ingeconsulta</p>
           <p className="text-[var(--color-segundo)] text-sm mb-2">Febrero 2022 a Julio 2024</p>
 
-          <ul className="text-sm text-justify text-[var(--color-cuarto)] dark:text-[var(--color-primero)]/90 mb-2 leading-relaxed list-disc list-inside space-y-1">
+          <ul className="text-sm text-justify text-[var(--color-cuarto)]  mb-2 leading-relaxed list-disc list-inside space-y-1">
             <li>Elaboración de ensayo de laboratorio.</li>
             <li>Supervisar y liderar equipo de 5 personas en proyectos de geotecnia.</li>
             <li>Control de maquinaria y equipos.</li>

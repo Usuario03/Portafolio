@@ -47,7 +47,7 @@ export const TypingHeader = () => {
     <span className="ml-1 animate-blink text-[var(--color-tercero)]">|</span>
   </h2>
 
-  <p className="text-sm text-justify text-[var(--color-cuarto)] dark:text-[var(--color-primero)]/90 mb-2">
+  <p className="text-sm text-justify text-[var(--color-cuarto)] mb-2">
    En proceso de formación como desarrollador web, creando interfaces modernas con React, Tailwind y Vite.
   </p>
 </div>
