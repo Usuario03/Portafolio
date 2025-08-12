@@ -3,7 +3,7 @@
     "id": 1,
     "titulo": "Interfaz de carrito de compras de postres",
     "imagen": "/assets/images/active-states.png",
-    "descripcion": "Este proyecto me permitió consolidar conocimientos sobre React funcional y moderno, mejorar mi fluidez con Tailwind CSS, y utilizar Vite como alternativa rápida y eficiente para desarrollar aplicaciones frontend. Aprendí a estructurar mejor los componentes y manejar el estado de forma limpia y escalable, lo cual es esencial para cualquier aplicación real de comercio electrónico.",
+    "descripcion": "Desarrollo de una aplicación frontend con React, Tailwind CSS y Vite. Incluye componentes modulares, manejo de estado escalable y diseño responsive.",
     "tecnologias": [
       {
         "nombre": "React",
@@ -26,7 +26,7 @@
       {
         "nombre": "Linkedin",
         "icono": "/assets/images/linkedin.png",
-        "enlace": "https://demo-link.com",
+        "enlace": "https://www.linkedin.com/in/jairo-leal-180162379/",
         "estilo": "bg-blue-600 hover:bg-blue-700"
       },
       {
@@ -41,7 +41,7 @@
     "id": 2,
     "titulo": "Gestión de extensiones tipo navegador",
     "imagen": "/assets/images/desktop-design-light.png",
-    "descripcion": "Este proyecto me permitió reforzar mis conocimientos en React y Tailwind CSS, centrándome en el diseño de interfaces ricas en interacción y usabilidad. Comprendí cómo estructurar mejor los componentes, manejar múltiples estados de forma eficiente y simular comportamientos reales de una aplicación de escritorio o navegador.",
+    "descripcion": "Desarrollo de una interfaz interactiva con React y Tailwind CSS. Incluye componentes estructurados, manejo eficiente de múltiples estados y diseño responsive que simula comportamientos reales de aplicaciones de escritorio o navegador.",
     "tecnologias": [
       {
         "nombre": "React",
@@ -60,7 +60,7 @@
       {
         "nombre": "Linkedin",
         "icono": "/assets/images/linkedin.png",
-        "enlace": "https://demo-link.com",
+        "enlace": "https://www.linkedin.com/in/jairo-leal-180162379/",
         "estilo": "bg-blue-600 hover:bg-blue-700"
       },
       {
@@ -70,5 +70,48 @@
         "estilo": "bg-neutral-800 hover:bg-neutral-900"
       }
     ]
+    },
+  {
+    "id": 3,
+    "titulo": "Generador de Tickets para Conferencias",
+    "imagen": "/assets/images/desktop-design-form.png",
+    "descripcion": "Desarrollo de un formulario interactivo con React, Tailwind CSS y Vite. Permite registrar datos y generar un ticket personalizado, incluye carga de avatar y fondos con imágenes adaptados, ofreciendo una experiencia visual atractiva y completamente responsive.",
+    "tecnologias": [
+      {
+        "nombre": "React",
+        "icono": "/assets/images/react.png"
+      },
+      {
+        "nombre": "TailwindCSS",
+        "icono": "/assets/images/Tailwindcss.png"
+      },
+      {
+        "nombre": "Vite",
+        "icono": "/assets/images/vite.png"
+      }
+    ],
+    "botones": [
+      {
+        "nombre": "Linkedin",
+        "icono": "/assets/images/linkedin.png",
+        "enlace": "https://www.linkedin.com/in/jairo-leal-180162379/",
+        "estilo": "bg-blue-600 hover:bg-blue-700"
+      },
+      {
+        "nombre": "GitHub",
+        "icono": "/assets/images/github.png",
+        "enlace": "https://github.com/Usuario03/Ticket-Generator.git",
+        "estilo": "bg-neutral-800 hover:bg-neutral-900"
+      }
+    ]
+     },
+  {
+    "id": 4,
+    "titulo": "NO DATA",
+    "imagen": "/assets/images/Trabajando.png",
+    "descripcion": "NO DATA",
+    "tecnologias": []
+ 
   }
 ]
+

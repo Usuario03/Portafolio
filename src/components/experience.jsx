@@ -21,7 +21,7 @@ export const Experience = () => {
 
           <ul className="text-sm text-justify text-[var(--color-cuarto)]  mb-2 leading-relaxed list-disc list-inside space-y-1">
             <li>Elaboración de ensayo de laboratorio.</li>
-            <li>Supervisar y liderar equipo de 5 personas en proyectos de geotecnia.</li>
+            <li>Supervisar y liderar equipo en proyectos de geotecnia.</li>
             <li>Control de maquinaria y equipos.</li>
             <li>Administrador de software de geotecnia, mantenimiento de equipos y auxiliar de sistema.</li>
           </ul>
